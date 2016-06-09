@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/stopDetails"
+        android:layout_marginBottom="10.5dp"
+        android:layout_marginTop="8.5dp" />
+    <Button
+        android:id="@+id/saveHome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save as Home"
+        android:layout_marginTop="8.5dp" />
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true">
+        <TextView
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/stopInfo" />
+    </ScrollView>
+</LinearLayout>

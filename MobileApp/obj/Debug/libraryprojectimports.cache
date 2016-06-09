@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>d:\aditya\documents\visual studio 2015\Projects\MobileApp\MobileApp\obj\Debug\__library_projects__\Couchbase.Lite\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>d:\aditya\documents\visual studio 2015\Projects\MobileApp\MobileApp\obj\Debug\__library_projects__\Couchbase.Lite.Storage.SystemSQLite\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>d:\aditya\documents\visual studio 2015\Projects\MobileApp\MobileApp\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>d:\aditya\documents\visual studio 2015\Projects\MobileApp\MobileApp\obj\Debug\__library_projects__\Couchbase.Lite\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>d:\aditya\documents\visual studio 2015\Projects\MobileApp\MobileApp\obj\Debug\__library_projects__\Couchbase.Lite.Storage.SystemSQLite\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>d:\aditya\documents\visual studio 2015\Projects\MobileApp\MobileApp\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>d:\aditya\documents\visual studio 2015\Projects\MobileApp\MobileApp\obj\Debug\__library_projects__\Couchbase.Lite.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>d:\aditya\documents\visual studio 2015\Projects\MobileApp\MobileApp\obj\Debug\__library_projects__\Couchbase.Lite.Storage.SystemSQLite.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>d:\aditya\documents\visual studio 2015\Projects\MobileApp\MobileApp\obj\Debug\__library_projects__\SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
